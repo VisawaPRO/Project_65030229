@@ -13,6 +13,7 @@ namespace Project_65030229
             Phet = 1,
             Kla = 2,
             Mag = 3,
+            Beck = 4,
         }
     }
 }
